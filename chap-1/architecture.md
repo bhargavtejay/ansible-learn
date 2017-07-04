@@ -1,4 +1,4 @@
-** Concepts and Architecture**
+**Concept and Architecture**
 
 * Two types of machines
     * Control node : Ansible software installed on control node and all of its components are maintained on it.
