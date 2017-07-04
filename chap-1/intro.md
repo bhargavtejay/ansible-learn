@@ -12,6 +12,7 @@
 
 
 * Simple to use for sysadmins
+* SSH Based
 * Agent-less
 * Built-on-Python
 * Supported by DevOps Tools like Vagrant and Jenkins
