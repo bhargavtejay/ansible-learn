@@ -1,4 +1,4 @@
-   ***Ansible***
+   **Ansible**
 
 * Ansible Author: Michael DeHaan
 
@@ -7,11 +7,8 @@
     * Instead of writing multiple scripts, sysadmin can create high-level plays in ansile
 
 * Play: Play perforce series of tasks on the host or group of hosts specified in play
-
 * Playbook: A file that contain one or more plays is called playbook
-
 * Modules: Modules are the programs which perform actual work of the tasks of a play. Ansible comes with hundreds of modules(Types: Core: 400+, Custome, Extra)
-
 
 
 * Simple to use for sysadmins
@@ -20,7 +17,6 @@
 * Supported by DevOps Tools like Vagrant and Jenkins
 * Push Based
 * Pull Based in some cases
-
 
 
 * Can't perform initial minimal installation of system
