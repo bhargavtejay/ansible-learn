@@ -1,4 +1,4 @@
-   **Ansible**
+   ***Ansible***
 
 * Ansible Author: Michael DeHaan
 
@@ -12,12 +12,15 @@
 
 * Modules: Modules are the programs which perform actual work of the tasks of a play. Ansible comes with hundreds of modules(Types: Core: 400+, Custome, Extra)
 
+
+
 * Simple to use for sysadmins
 * Agent-less
 * Built-on-Python
 * Supported by DevOps Tools like Vagrant and Jenkins
 * Push Based
 * Pull Based in some cases
+
 
 
 * Can't perform initial minimal installation of system
